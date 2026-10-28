@@ -13,6 +13,12 @@ format: html
 
 - Michelle Yue
 
+- Arjun Ram
+
+- 
+
+- Julien Cooney
+
 ## Team Visualizations
 
 ```{=html}
