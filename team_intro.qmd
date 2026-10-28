@@ -12,6 +12,10 @@ format: html
 ```
 
 - Sidharth Madhusudhan
+- Meenu Konathala
+
+- Michelle Yue
+
 - Arjun Ram
 
 - 
