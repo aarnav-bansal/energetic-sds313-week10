@@ -13,6 +13,14 @@ format: html
 
 - Meenu Konathala
 
+- Michelle Yue
+
+- Arjun Ram
+
+- 
+
+- Julien Cooney
+
 ## Team Visualizations
 
 ```{=html}
