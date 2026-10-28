@@ -11,6 +11,8 @@ format: html
      merge conflict. Resolve it together rather than one person overwriting the other. -->
 ```
 
+- Michelle Yue
+
 - Arjun Ram
 
 - 
