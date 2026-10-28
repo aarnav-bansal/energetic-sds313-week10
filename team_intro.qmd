@@ -13,6 +13,10 @@ format: html
 
 - Sidharth Madhusudhan
 
+- 
+
+- Julien Cooney
+
 ## Team Visualizations
 
 ```{=html}
